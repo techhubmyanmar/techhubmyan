@@ -49,12 +49,12 @@
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item dropdown open">
                     <a class="nav-link link text-white dropdown-toggle display-7" href="https://mobirise.com" data-toggle="dropdown-submenu" aria-expanded="true"><span class="socicon socicon-facebook mbr-iconfont mbr-iconfont-btn" style="font-size: 20px;"></span>Our Social&nbsp;</a><div class="dropdown-menu"><a class="text-white dropdown-item display-7" href="https://www.facebook.com/TechHubMyanmar/">Facebook</a><a class="text-white dropdown-item display-7" href="https://www.youtube.com/channal/UCrSvSEjxFnyb7LhYwoBlNqg" aria-expanded="false">Youtube Channal</a></div>
                 </li></ul>
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-7" href="https://google.com">Exit</a></div>
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-primary display-7" href="page2.html">Videos</a> <a class="btn btn-sm btn-primary display-7" href="index.html">Home</a>  <a class="btn btn-sm btn-primary display-7" href="page3.html">Posts</a></div>
         </div>
     </nav>
 </section>
 
-<section class="engine"><a href="https://mobirise.info/y">free html site templates</a></section><section class="header7 cid-ren9S90u2t" id="header7-c">
+<section class="engine"><a href="https://mobirise.info/h">how to create your own web page</a></section><section class="header7 cid-ren9S90u2t" id="header7-c">
 
     
 
