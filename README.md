@@ -38,11 +38,11 @@
         <div class="menu-logo">
             <div class="navbar-brand">
                 <span class="navbar-logo">
-                    <a href="https://mobirise.com">
+                    <a href="techhubmyanmar.tk">
                          <img src="assets/images/1543666786368-1-122x88.png" alt="Mobirise" title="" style="height: 3.8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="https://mobirise.com">TECH HUB MYANMAR</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-5" href="techhubmyanmar.tk">TECH HUB MYANMAR</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
