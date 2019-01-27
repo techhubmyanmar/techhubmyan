@@ -72,7 +72,7 @@
                         <a class="btn btn-md btn-white-outline display-4" href="page2.html">Videos</a></div>
             </div>
 
-            <div class="mbr-figure" style="width: 100%;"><img src="assets/images/video-placeholder.jpg" class="mbr-figure__img" alt="" data-bg-video="<iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NApAvsAlBQA&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen></iframe>?loop=1&amp;autoplay=1" data-video-width="1280" data-video-height="720" data-video-aspectratio="16:9" data-video-autoplay="true" data-video-loop="true"></div>
+            <div class="mbr-figure" style="width: 100%;"><img src="assets/images/video-placeholder.jpg" class="mbr-figure__img" alt="" data-bg-video="<iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://youtu.be/NApAvsAlBQA; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen></iframe>?loop=1&amp;autoplay=1" data-video-width="1280" data-video-height="720" data-video-aspectratio="16:9" data-video-autoplay="true" data-video-loop="true"></div>
 
         </div>
     </div>
